@@ -9,6 +9,7 @@
 ------------------|--------|--------
 Автопарк          | 🟡    | <a href="https://github.com/AnzhelikaLika20/WASP/tree/main/Autopark">Перейти</a>
 HW1               |🟡     | <a href = "https://github.com/AnzhelikaLika20/WASP/tree/main/HW1">Перейти</a>
+MusicStore        |🟡     | <a href = "https://github.com/AnzhelikaLika20/WASP/tree/main/MusicStore">Прейти</a>
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
 🟡 Нужно посмотреть <br>
